@@ -26,3 +26,7 @@ No.|Modul|Unduh
 - MongoDB Database
 - Loopback & Database
 - Express & Database
+- Email
+- Authentication
+- Deploy
+- Front-End & Back-End
