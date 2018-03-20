@@ -19,6 +19,8 @@ No.|Modul|Unduh
 - Node Package Manager
 - Loopback
 - Express
+- Express File Upload
+- Email Delivering
 - MySQL Database
 - PostgreSQL Database
 - MongoDB Database
@@ -26,6 +28,5 @@ No.|Modul|Unduh
 - Loopback & MongoDB
 - Express & MySQL
 - Express & MongoDB
-- Email Delivering
 - Authentication
 - Deploy
