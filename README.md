@@ -18,15 +18,14 @@ No.|Modul|Unduh
 - HTTP Module
 - Node Package Manager
 - Loopback
-- Firebase Function
 - Express
 - MySQL Database
 - PostgreSQL Database
-- Firebase Realtime Database
 - MongoDB Database
-- Loopback & Database
-- Express & Database
-- Email
+- Loopback & MySQL
+- Loopback & MongoDB
+- Express & MySQL
+- Express & MongoDB
+- Email Delivering
 - Authentication
 - Deploy
-- Front-End & Back-End
