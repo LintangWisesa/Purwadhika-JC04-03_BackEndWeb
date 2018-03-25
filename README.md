@@ -18,9 +18,9 @@ No.|Modul|Unduh
 - HTTP Module
 - Node Package Manager
 - Loopback
-- Express
-- Express File Upload
-- Email Delivering
+- Express REST API
+- LowDB & File Upload
+- Nodemailer
 - MySQL Database
 - PostgreSQL Database
 - MongoDB Database
@@ -28,5 +28,7 @@ No.|Modul|Unduh
 - Loopback & MongoDB
 - Express & MySQL
 - Express & MongoDB
+- Express & Mongoose
+- Strapi & MongoDB
 - Authentication
 - Deploy
