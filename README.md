@@ -30,5 +30,5 @@ No.|Modul|Unduh
 - Express & MongoDB
 - Express & Mongoose
 - Strapi & MongoDB
-- Authentication
-- Deploy
+- Deploy to OpeNode
+- Deploy to Heroku
