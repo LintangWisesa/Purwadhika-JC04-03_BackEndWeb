@@ -29,6 +29,7 @@ No.|Modul|Unduh
 - Express & MySQL
 - Express & MongoDB
 - Express & Mongoose
+- Express & PostgreSQL
 - Strapi & MongoDB
 - Deploy to OpeNode
 - Deploy to Heroku
